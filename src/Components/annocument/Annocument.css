@@ -1,0 +1,12 @@
+.annocument{
+    background-color: rgb(243, 241, 238);
+}
+
+
+@media (max-width: 768px)
+{
+    .annocument
+    {
+        display: none;
+    }
+}
